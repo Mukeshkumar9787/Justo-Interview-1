@@ -1,0 +1,1 @@
+export const ONE_TIME_LINK_EXPIRE_MINS = 10;
